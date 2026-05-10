@@ -1,0 +1,6 @@
+name: PigRocketEffect
+version: 1.0
+main: me.greenmoon.addon.ffa.PigRocketEffectMain
+author: GreenMoon_TW
+api-version: 1.8
+depend: [O1NG-FFA]
